@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/piercvds/public_html/test-git
-    - /bin/cp -R ./ $DEPLOYPATH
+    - /bin/cp -R . $DEPLOYPATH
