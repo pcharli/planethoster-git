@@ -1,0 +1,23 @@
+h1 {
+    color: geen;
+}
+main::before {
+    content: '';
+    background-color: yellow;
+}
+main {
+    max-width: 60%;
+    margin: auto;
+    font-family: arial;
+}
+.box_services {
+    border: 1px solid rgb(231, 17, 17);
+    padding: 8px;
+    border-radius: 15px;
+}
+.search_form {
+    width: 55%;
+}
+.search_form label {
+    display: none;
+}
